@@ -24,8 +24,6 @@ Git y GitHub
 
 Este repositorio irá creciendo constantemente a medida que avance en mi aprendizaje.
 
-Gracias por visistar este repositorio y espero que te haya ayudado para aplicar al máximo tus conocimientos en tus proyectos.
+⭐Gracias por visistar este repositorio y espero que te haya ayudado para aplicar al máximo tus conocimientos en tus proyectos.
 
-
-
-⭐ Gracias por visitar este repositorio. Cualquier sugerencia es bienvenida.
+Cualquier sugerencia es bienvenida.
