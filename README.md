@@ -2,7 +2,7 @@ Mi Repositorio de Python
 
 ¡Bienvenido a este repositorio! 👋
 
-Soy Carlos Arrieta con estudios de Tecnólogo en Análisis y Desarrollo de Software e Ingeniero Ambiental. Este espacio está dedicado al aprendizaje y práctica del lenguaje de programación Python, donde encontrarás, teoría, ejercicios, ejemplos y proyectos que me ayudan a mejorar mis habilidades como desarrollador.
+Soy Carlos Arrieta con estudios de Tecnólogo en Análisis y Desarrollo de Software e ingeniería Ambiental. Este espacio está dedicado al aprendizaje y práctica del lenguaje de programación Python, donde encontrarás, teoría, ejercicios, ejemplos y proyectos que me ayudan a mejorar mis habilidades como desarrollador.
 
 📚 ¿Qué encontrarás aquí?
 
